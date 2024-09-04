@@ -17,7 +17,16 @@
       "formData": {
         "apiContentType": "none"
       },
-      "headers": [],
+      "headers": [
+        {
+          "key": "api-header",
+          "value": "api-header"
+        },
+        {
+          "key": "two-header",
+          "value": "two-header"
+        }
+      ],
       "httpMethod": "POST",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",

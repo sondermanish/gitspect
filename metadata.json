@@ -1,6 +1,1 @@
-{
-  "artifactJsonType": "APPLICATION",
-  "clientSchemaVersion": 1,
-  "fileFormatVersion": 5,
-  "serverSchemaVersion": 9
-}
+{"serverSchemaVersion":12,"fileFormatVersion":5,"clientSchemaVersion":1,"artifactJsonType":"APPLICATION"}

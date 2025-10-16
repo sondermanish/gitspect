@@ -22,6 +22,8 @@
       "isDefault": true
     }
   ],
+  "staticUrlEnabled": true,
+  "uniqueSlug": "gitspect-9981",
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
